@@ -103,7 +103,6 @@ int main() {
     
     return 0;
 }
-*/
 
 
 
@@ -116,7 +115,7 @@ using namespace std;
 
 class Roof {
 private:
-    string material;
+string material;
 public:
     void setMaterial(string value) {
         material=value;
@@ -151,3 +150,4 @@ int main() {
 
     return 0;
 }
+*/
